@@ -4,8 +4,8 @@ attr_writer :name
 attr_reader :name
 attr_accessor :name
 
-	def meow 
+	def meow
 		puts "meow!"
 	end
-	
+
 end ## code your solution here. 
